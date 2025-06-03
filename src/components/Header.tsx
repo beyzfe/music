@@ -1,5 +1,5 @@
 import { LuGithub } from "react-icons/lu";
-import { usePlayer } from "../store/UsePlayer";
+import { usePlayer } from "../store/usePlayer";
 import { useLocation } from "react-router";
 import { useEffect, useState } from "react";
 export default function Header() {

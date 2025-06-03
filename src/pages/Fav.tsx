@@ -1,5 +1,5 @@
 import { TbPlayerPlayFilled } from "react-icons/tb";
-import { usePlayer } from "../store/UsePlayer";
+import { usePlayer } from "../store/usePlayer";
 
 export default function Home() {
   const player = usePlayer();

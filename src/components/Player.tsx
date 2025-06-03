@@ -1,6 +1,6 @@
 import AudioPlayer from "react-h5-audio-player";
 import "react-h5-audio-player/lib/styles.css";
-import { usePlayer } from "../store/UsePlayer";
+import { usePlayer } from "../store/usePlayer";
 import { HiHeart, HiOutlineHeart } from "react-icons/hi";
 
 export default function Player() {
